@@ -12,8 +12,6 @@
 
 #include <iostream>
 
-#include <iostream>
-
 std::string	switch_to_uppercase(std::string str)
 {
 	unsigned long	i;
